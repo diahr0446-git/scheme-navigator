@@ -4,8 +4,7 @@ A full-stack prototype for helping applicants find relevant concessional credit 
 
 **Live demo:** https://scheme-navigator-teal.vercel.app/
 
-**Built for:** Smart India Hackathon — SIH26092  
-**Team:** Cyvanta
+
 
 ---
 
